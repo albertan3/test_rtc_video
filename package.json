@@ -6,10 +6,8 @@
   "scripts": {
     "start": "budo index.js:bundle.js"
   },
-  "devDependencies": {
-    "budo": "^4.1.0"
-  },
   "dependencies": {
+    "budo": "^4.1.0",
     "getusermedia": "^1.3.5",
     "simple-peer": "^5.11.4"
   }
